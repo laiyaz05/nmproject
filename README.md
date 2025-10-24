@@ -6,13 +6,13 @@
 
 ---
 
-### ✅ **Description**
+### **DESCRIPTION**
 
 A **To-Do List Application** is a task management tool that helps users organize their daily, weekly, or long-term tasks. It allows users to add, edit, delete, and mark tasks as completed, improving productivity and time management.
 
 ---
 
-### ⭐ **Features**
+###  **FEATURES**
 
 1. **Add Task** – Title, description, due date
 2. **Edit/Update Task**
@@ -27,7 +27,7 @@ A **To-Do List Application** is a task management tool that helps users organize
 
 ---
 
-### ⚠️ **Challenges**
+###  **CHALLENGES**
 
 1. **Data Persistence** – Ensuring tasks are saved reliably.
 2. **Real-time Updates** – Syncing data across multiple devices.
@@ -39,7 +39,7 @@ A **To-Do List Application** is a task management tool that helps users organize
 
 ---
 
-### 🛠️ **Technologies Used**
+###  TECHNOLOGIES USED 
 
 #### **Frontend (UI)**
 
@@ -75,7 +75,7 @@ A **To-Do List Application** is a task management tool that helps users organize
 
 ---
 
-### 🔄 **How It Works (Flow)**
+###  **HOW IT WORKS (FLOW)**
 
 
 1. **Dashboard View**
