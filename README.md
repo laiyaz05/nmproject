@@ -1,6 +1,3 @@
-# nmproject
-
----
 
 ## 📝 TO-DO LIST APPLICATION
 
